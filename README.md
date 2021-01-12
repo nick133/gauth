@@ -1,2 +1,2 @@
 # gauth
-Google TOTP Authentificator CLI
+Simple Google TOTP Authentificator CLI witten in pure NIM.
